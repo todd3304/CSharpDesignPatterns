@@ -8,7 +8,7 @@ namespace CSharpDesignPatterns
 {
     public class WideWheel : AbstractWheel
     {
-        public WideWheel(int size) : base(size, true)
+        public WideWheel(int size) : base(size, true) 
         {
 
         }
