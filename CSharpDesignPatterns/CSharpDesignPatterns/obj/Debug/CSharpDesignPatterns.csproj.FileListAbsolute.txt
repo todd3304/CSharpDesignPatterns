@@ -1,0 +1,7 @@
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\CSharpDesignPatterns.exe.config
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\CSharpDesignPatterns.exe
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\CSharpDesignPatterns.pdb
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.csprojAssemblyReference.cache
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.csproj.CoreCompileInputs.cache
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.exe
+D:\MyRepository\CSharpDesignPatterns\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.pdb

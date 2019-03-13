@@ -13,5 +13,13 @@ namespace CSharpDesignPatterns
         BikeColor ColorType { get; }
 
         void Paint(BikeColor color);
+
+        decimal Price { get; }
+
+        void CleanFrame();
+
+        void AirTires();
+
+        void TestRide();
     }
 }

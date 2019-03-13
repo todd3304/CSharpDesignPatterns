@@ -8,6 +8,8 @@ namespace CSharpDesignPatterns
 {
     public class Vintage : AbstractRoadBike
     {
+        public override decimal Price { get; } = 570.00m;
+
         public Vintage(IWheel wheel) : this(BikeColor.blue, wheel)
         {
 
